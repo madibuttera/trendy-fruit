@@ -20,3 +20,15 @@ html {
 body {
   margin: 0;
 }
+
+.water {
+ background-color: #e97065;
+}
+
+.star {
+  background-color: #fbd25e;
+}
+
+.pers {
+  background-color: #e86033;
+}
